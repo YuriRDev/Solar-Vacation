@@ -12,7 +12,7 @@ ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>
       <GlobalStyles />
-      <MainRoutes />
+      <Main />
     </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
