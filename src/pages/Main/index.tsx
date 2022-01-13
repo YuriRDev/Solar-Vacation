@@ -12,7 +12,6 @@ import jupter from '../../assets/jupter.svg'
 import uranus from '../../assets/uranus.svg'
 import TopPlanet from '../../components/TopPlanet';
 import Header from '../../components/Header';
-import { Link } from 'react-router-dom';
 
 
 
