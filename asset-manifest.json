@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/Solar-Vacation/static/js/main.7e71872b.js",
+    "static/js/787.47730dd6.chunk.js": "/Solar-Vacation/static/js/787.47730dd6.chunk.js",
+    "static/media/backgroundimg.png": "/Solar-Vacation/static/media/backgroundimg.6f1b127948711ea24631.png",
+    "static/media/rocketbg.svg": "/Solar-Vacation/static/media/rocketbg.d21334d31aa2b65bf1ae0e4c723e35f9.svg",
+    "static/media/saturn.svg": "/Solar-Vacation/static/media/saturn.13b5c81e823e96babaaca2ff43a5dcd3.svg",
+    "static/media/wavebg.svg": "/Solar-Vacation/static/media/wavebg.1739d80425e1f27cefb4d545e8707d61.svg",
+    "static/media/neptune.svg": "/Solar-Vacation/static/media/neptune.8ea29a64387684439049d0249d4973ba.svg",
+    "static/media/uranus.svg": "/Solar-Vacation/static/media/uranus.480c75d2631bbf9e5288452680933d81.svg",
+    "static/media/mercury.svg": "/Solar-Vacation/static/media/mercury.3f2f5d5fb98aa4dc39eecfa7adcd7b1f.svg",
+    "static/media/venus.svg": "/Solar-Vacation/static/media/venus.5506c81d5623c05a252a2a6302971bd0.svg",
+    "static/media/jupter.svg": "/Solar-Vacation/static/media/jupter.aaedcf9404fd067f87a0bb456bb48761.svg",
+    "static/media/pluto.svg": "/Solar-Vacation/static/media/pluto.5ca675655ed11160547164b308b6be6a.svg",
+    "static/media/mars.svg": "/Solar-Vacation/static/media/mars.b46f74877b14ecb903749695d0755779.svg",
+    "static/media/fromsvg.svg": "/Solar-Vacation/static/media/fromsvg.9d11c1639e5a06f300666b605797f5f3.svg",
+    "index.html": "/Solar-Vacation/index.html",
+    "static/media/star.svg": "/Solar-Vacation/static/media/star.96ddf7165069b167b1a627dd7646d8c2.svg",
+    "static/media/firststep.svg": "/Solar-Vacation/static/media/firststep.aa62ae06a9cdd0e804f74756915142a4.svg",
+    "static/media/seccondstep.svg": "/Solar-Vacation/static/media/seccondstep.e7a0999e541c6c87f19391b5ecb0d3f9.svg",
+    "main.7e71872b.js.map": "/Solar-Vacation/static/js/main.7e71872b.js.map",
+    "787.47730dd6.chunk.js.map": "/Solar-Vacation/static/js/787.47730dd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7e71872b.js"
+  ]
+}
